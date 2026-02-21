@@ -30,6 +30,14 @@ Your future self is already grateful you started.
 
 ---
 
+I built this Blueprint because I saw the other side of the equation. I worked inside a company that profited from people staying in debt, and I watched ordinary people — smart, hardworking people — get pulled under by systems designed to keep them paying.
+
+This guide is the opposite of that. No spin. No corporate interest. Just the data, the strategies, and the tools — all working for you.
+
+You've got this.
+
+---
+
 **stackedsheets.etsy.com**
 
 *The Debt Freedom Blueprint · StackedSheets*

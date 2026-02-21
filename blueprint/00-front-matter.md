@@ -6,6 +6,24 @@
 
 ---
 
+## WHY I BUILT THIS
+
+I used to work as a data analyst for a Buy Now, Pay Later company. My job on the communications team gave me a front-row seat to something most people never see — the real data behind consumer debt.
+
+I saw how easily ordinary people fell into debt spirals. Not reckless people. Not irresponsible people. Normal people — parents, students, workers — who got caught in systems specifically engineered to keep them paying. I saw how the messaging was carefully crafted to make it all feel normal and manageable. Every report I analysed, every campaign I helped shape, told the same story: *keep spending, it's fine, you can afford the payments.*
+
+I told myself it was fine. It's just data. It's just a job.
+
+Then they launched BNPL for groceries and food delivery. That's when I knew I couldn't stay.
+
+When you're helping people finance their weekly food shop in four instalments, you're not offering convenience. You're profiting from the gap between what people earn and what it costs to survive. And the data I had access to made it impossible to pretend otherwise.
+
+I left. And I built these tools — the spreadsheet, this Blueprint, every template and strategy in this system — because the financial industry profits from your confusion. The debt payoff strategies that actually work aren't complicated. They're backed by research from Harvard and Northwestern. They're just not profitable for the companies that want to keep you paying interest.
+
+This Blueprint gives you the same kind of analytical clarity I had access to on the inside, except it's working *for* you, not against you.
+
+---
+
 ## DEDICATION
 
 To everyone carrying the weight of debt and the courage to do something about it.

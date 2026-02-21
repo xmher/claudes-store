@@ -172,6 +172,8 @@ Historically, the NHS protected UK consumers from medical debt. That protection 
 
 ### The shadow debt crisis
 
+> **A NOTE FROM THE AUTHOR:** I worked as a data analyst at a BNPL company. I saw the internal numbers — the default rates, the repeat borrowing patterns, the demographic data showing exactly who was getting caught in the cycle. The external messaging said "flexible payments" and "interest-free convenience." The internal data told a different story entirely. The moment they launched BNPL for grocery shopping and food delivery, I knew the industry had crossed a line from convenience into exploitation. Everything in this section comes from that perspective: I've seen how this works from the inside.
+
 BNPL has exploded into a massive, largely unregulated debt category that traditional credit monitoring can't see.
 
 | Metric | United States | United Kingdom |
